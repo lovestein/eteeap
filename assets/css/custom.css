@@ -1,0 +1,57 @@
+/* Background Cover for Home Page */
+.bg-img-cover {
+  position: relative;
+}
+
+.bg-img-cover::before {
+  content: "";
+  background-image: url("../images/web/pcu_background.jpg");
+  background-position: center;
+  background-size: cover;
+  filter: brightness(50%);
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  position: absolute;
+  z-index: -1;
+}
+
+/* Backgorund cover for Call to Action Subsection */
+.bg-img-cover-sub-section {
+  position: relative;
+}
+
+.bg-img-cover-sub-section::before {
+  content: "";
+  background-image: url("../images/web/pcu_background.jpg");
+  background-position: center;
+  background-size: cover;
+  opacity: 0.8;
+  /* filter: brightness(50%); */
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  position: absolute;
+  z-index: -1;
+}
+
+/* Background Cover for About Page */
+.bg-img-cover-about {
+    position: relative;
+  }
+  
+  .bg-img-cover-about::before {
+    content: "";
+    background-image: url("../images/web/pcu_background.jpg");
+    background-position: center;
+    background-size: cover;
+    filter: brightness(50%);
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    position: absolute;
+    z-index: -1;
+  }
