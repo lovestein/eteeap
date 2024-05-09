@@ -55,3 +55,21 @@
     position: absolute;
     z-index: -1;
   }
+
+  /* Background Cover for Login Page */
+.bg-img-login {
+  position: relative;
+}
+
+.bg-img-login::before {
+  content: "";
+  background-image: url("../images/web/pcu_theme_photo.jpg");
+  background-position: center;
+  background-size: cover;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  position: absolute;
+  z-index: -1;
+}
