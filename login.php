@@ -26,7 +26,9 @@ include("./includes/header.php");
                             <a href="" class="text-primary text-decoration-none" data-bs-toggle="modal" data-bs-target="#forgotPasswordModal"><small>Forgot Password?</small></a>
                         </div>
                     </div>
-                    <button type="submit" class="btn btn-primary form-control rounded-pill fw-bold">Sign In</button>
+                    <a href="./student.php">
+                        <button type="button" class="btn btn-primary form-control rounded-pill fw-bold">Sign In</button>
+                    </a>
                 </form>
                 <div class="card-text text-center pb-3">
                     By using this service, you understood and agree to the PCU Online Services Terms of Use and Privacy Statement <br>

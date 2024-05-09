@@ -3,7 +3,9 @@
         $page_title == "Home" ||
         $page_title == "Overview" ||
         $page_title == "Announcement" ||
-        $page_title == "About"
+        $page_title == "About" ||
+        $page_title == "Student" ||
+        $page_title == "Teacher"
     ) : ?>
         <footer>
             <div class="container-fluid bg-primary text-white">

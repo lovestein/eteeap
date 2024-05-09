@@ -21,49 +21,50 @@ include("./includes/header.php");
 </section>
 
 <!-- Cards -->
-<section class="px-3 bg-light">
-    <div class="row py-5 align-items-center">
-        <h1 class="text-center text-black">Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro, necessitatibus!</h1>
-        <div class="col-lg-3 col-md-12 justify-content-center py-2">
-            <div class="card text-center">
-                <img src="./assets/images/web/pcu_background.jpg" class="card-img-top" alt="...">
-                <div class="card-body">
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+<section class="bg-light">
+    <div class="container-lg p-0">
+        <div class="row px-3 py-5 align-items-center">
+            <h1 class="text-center text-black">Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro, necessitatibus!</h1>
+            <div class="col-lg-3 col-md-12 justify-content-center py-2">
+                <div class="card text-center">
+                    <img src="./assets/images/web/pcu_background.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="col-lg-3 col-md-12">
-            <div class="card text-center">
-                <img src="./assets/images/web/pcu_background.jpg" class="card-img-top" alt="...">
-                <div class="card-body">
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <div class="col-lg-3 col-md-12">
+                <div class="card text-center">
+                    <img src="./assets/images/web/pcu_background.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="col-lg-3 col-md-12">
-            <div class="card text-center">
-                <img src="./assets/images/web/pcu_background.jpg" class="card-img-top" alt="...">
-                <div class="card-body">
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <div class="col-lg-3 col-md-12">
+                <div class="card text-center">
+                    <img src="./assets/images/web/pcu_background.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    </div>
                 </div>
             </div>
-        </div>
-        <div class="col-lg-3 col-md-12">
-            <div class="card text-center">
-                <img src="./assets/images/web/pcu_background.jpg" class="card-img-top" alt="...">
-                <div class="card-body">
-                    <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+            <div class="col-lg-3 col-md-12">
+                <div class="card text-center">
+                    <img src="./assets/images/web/pcu_background.jpg" class="card-img-top" alt="...">
+                    <div class="card-body">
+                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-
 </section>
 
 <!-- Photo-Text -->
-<section class="bg-primary">
+<section class="container-fluid bg-primary">
     <div class="row align-items-center">
-        <div class="col-md-6 d-none d-md-block">
+        <div class="col-md-6 d-none d-md-block p-0">
             <img src="./assets/images/web/pcu_background.jpg" class="img-fluid">
         </div>
         <div class="col-md-6 py-5 px-4 text-sm-start text-center text-light">
@@ -75,25 +76,27 @@ include("./includes/header.php");
 
 <!-- Two Columns Text -->
 <section class="bg-light">
-    <div class="row py-5 px-3">
-        <div class="col-md-6 col-sm-12">
-            <h1>
-                Lorem ipsum dolor sit amet.
-            </h1>
-            <p>
-                Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni aspernatur consectetur natus sequi. Illo explicabo, necessitatibus possimus similique, quasi quae error aliquam voluptas at harum dolorum illum earum nam alias nostrum, veritatis ipsa quibusdam totam qui enim aut magnam sit facere? Nobis quasi eveniet reiciendis, totam sapiente ipsam quidem itaque id voluptatem deleniti eius molestiae iste corrupti? Unde nam aliquid eius! Quod ex labore voluptatibus sunt harum! Perferendis optio, earum repudiandae, nihil sed quod magni ex qui quo id numquam unde totam quidem aut atque deserunt minima veritatis doloremque alias omnis? Fugit provident ipsam eius labore beatae impedit deserunt nihil?
-            </p>
-        </div>
-        <div class="col-md-6 col-sm-12">
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo pariatur porro veritatis repellat voluptatibus harum maiores facere molestiae, nostrum amet enim ex sed reprehenderit mollitia a molestias unde quis nam consectetur esse natus ratione! Eaque debitis voluptatibus officia, porro totam iure cum placeat voluptates! Qui id commodi nihil? Quibusdam, modi hic. Qui, incidunt, a provident architecto eius nostrum adipisci corrupti aperiam enim ipsa veniam. Nesciunt earum aut necessitatibus autem quasi ut quos voluptate magni nostrum exercitationem fugit ex dolor vero odio, velit doloremque minima voluptates. Aut voluptatem facere nesciunt debitis officia autem optio! Mollitia, facilis? Minima, nam mollitia. Excepturi enim aliquid sequi asperiores sed! Necessitatibus, sint facilis harum ratione, quisquam quidem animi, laboriosam repellat voluptatum ad rem. Iusto, dolorum iure?
+    <div class="container-lg p-0">
+        <div class="row py-5">
+            <div class="col-md-6 col-sm-12">
+                <h1>
+                    Lorem ipsum dolor sit amet.
+                </h1>
+                <p>
+                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Magni aspernatur consectetur natus sequi. Illo explicabo, necessitatibus possimus similique, quasi quae error aliquam voluptas at harum dolorum illum earum nam alias nostrum, veritatis ipsa quibusdam totam qui enim aut magnam sit facere? Nobis quasi eveniet reiciendis, totam sapiente ipsam quidem itaque id voluptatem deleniti eius molestiae iste corrupti? Unde nam aliquid eius! Quod ex labore voluptatibus sunt harum! Perferendis optio, earum repudiandae, nihil sed quod magni ex qui quo id numquam unde totam quidem aut atque deserunt minima veritatis doloremque alias omnis? Fugit provident ipsam eius labore beatae impedit deserunt nihil?
+                </p>
+            </div>
+            <div class="col-md-6 col-sm-12">
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Illo pariatur porro veritatis repellat voluptatibus harum maiores facere molestiae, nostrum amet enim ex sed reprehenderit mollitia a molestias unde quis nam consectetur esse natus ratione! Eaque debitis voluptatibus officia, porro totam iure cum placeat voluptates! Qui id commodi nihil? Quibusdam, modi hic. Qui, incidunt, a provident architecto eius nostrum adipisci corrupti aperiam enim ipsa veniam. Nesciunt earum aut necessitatibus autem quasi ut quos voluptate magni nostrum exercitationem fugit ex dolor vero odio, velit doloremque minima voluptates. Aut voluptatem facere nesciunt debitis officia autem optio! Mollitia, facilis? Minima, nam mollitia. Excepturi enim aliquid sequi asperiores sed! Necessitatibus, sint facilis harum ratione, quisquam quidem animi, laboriosam repellat voluptatum ad rem. Iusto, dolorum iure?
+            </div>
         </div>
     </div>
 </section>
 
 <!-- Call to Action -->
-<section class="bg-img-cover-sub-section py-5">
-    <div class="container-lg">
-        <div class="row align-items-end">
+<section class="bg-img-cover-sub-section">
+    <div class="container-lg p-0">
+        <div class="row py-5 align-items-end">
             <div class="col-md-12 text-light text-center text-black">
                 <h3 class="fw-bold">
                     Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt, pariatur.
@@ -104,6 +107,7 @@ include("./includes/header.php");
         </div>
     </div>
 </section>
+
 
 <?php
 include("./includes/footer.php");
